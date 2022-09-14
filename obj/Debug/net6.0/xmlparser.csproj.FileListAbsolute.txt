@@ -1,0 +1,17 @@
+D:\xmlparser\bin\Debug\net6.0\xmlparser.exe
+D:\xmlparser\bin\Debug\net6.0\xmlparser.deps.json
+D:\xmlparser\bin\Debug\net6.0\xmlparser.runtimeconfig.json
+D:\xmlparser\bin\Debug\net6.0\xmlparser.dll
+D:\xmlparser\bin\Debug\net6.0\xmlparser.pdb
+D:\xmlparser\obj\Debug\net6.0\xmlparser.csproj.AssemblyReference.cache
+D:\xmlparser\obj\Debug\net6.0\xmlparser.GeneratedMSBuildEditorConfig.editorconfig
+D:\xmlparser\obj\Debug\net6.0\xmlparser.AssemblyInfoInputs.cache
+D:\xmlparser\obj\Debug\net6.0\xmlparser.AssemblyInfo.cs
+D:\xmlparser\obj\Debug\net6.0\xmlparser.csproj.CoreCompileInputs.cache
+D:\xmlparser\obj\Debug\net6.0\xmlparser.dll
+D:\xmlparser\obj\Debug\net6.0\refint\xmlparser.dll
+D:\xmlparser\obj\Debug\net6.0\xmlparser.pdb
+D:\xmlparser\obj\Debug\net6.0\xmlparser.genruntimeconfig.cache
+D:\xmlparser\obj\Debug\net6.0\ref\xmlparser.dll
+D:\xmlparser\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\xmlparser\obj\Debug\net6.0\xmlparser.csproj.CopyComplete

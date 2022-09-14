@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfkFWxVz1a8LiGSTAwSGe88TpacZZXbQJY5ITPApCHkRhZw6dlcbRaktSNyvaBWuu2ULl2wymYlx+AtigGNx4Q==",
+  "success": true,
+  "projectFilePath": "D:\\xmlparser\\xmlparser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\king\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\king\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
